@@ -4,7 +4,11 @@ I'm a high-school student, and sharing the things I made.
 
 ## Contact
 Send me an email from here:
-[Create Mail](mailto:bockring.scratcher@gmail.com)
+[Send Mail](mailto:bockring.scratcher@gmail.com)
+
+## Things I Made
+- [Blog (JP)](https://hobbuy-blog.github.io/hobbuying/)
+- [Online Voting Service (JP/EN)](https://hobbuy-blog.github.io/voting/)<br>* Default language is Japanese
 
 ## My Stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hobbuy-blog&theme=monokai)
